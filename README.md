@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analysis and data vizualization
 - 🌱 I’m currently learning AI and ML in Data analysis
 - 💞️ I’m looking to collaborate on projects that are based on Excel, Tableau and PowerBI 
-- 📫 You can reach me at mac.mittal@gmail.com
+- 📫 You can reach me at manny.mittal29@gmail.com
 - 😄 I am very energetic and detail oriented with a strict timeline 
 - ⚡ I am humourous and like to work in a funny environment
 
